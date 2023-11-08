@@ -1,6 +1,6 @@
 package org.example;
 
-public class Auto extends Fahrzeug{
+public class Auto extends Fahrzeug {
 
 
     // attribute
@@ -15,7 +15,6 @@ public class Auto extends Fahrzeug{
         super(manufacturer, model, modelYear);
         this.numberOfDoors = numberOfDoors;
     }
-
 
 
     // method
@@ -35,11 +34,5 @@ public class Auto extends Fahrzeug{
                 ", modelYear=" + modelYear +
                 '}';
     }
-
-
-
-
-
-
 
 }

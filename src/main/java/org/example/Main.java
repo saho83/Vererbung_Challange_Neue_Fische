@@ -18,8 +18,5 @@ public class Main {
         Motorrad moped = new Motorrad(90,"Chopper");
         moped.typeOfStyle();
 
-
-
-
     }
 }

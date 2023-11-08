@@ -7,8 +7,6 @@ public class Motorrad extends Fahrzeug {
     String type;
 
     // constructor
-
-
     public Motorrad(int ps, String style) {
         this.ps = ps;
         this.type = style;
@@ -24,16 +22,4 @@ public class Motorrad extends Fahrzeug {
     public void typeOfStyle() {
         System.out.println("Type of Style: " + type);
     }
-
-
-
-
-
-
-
-
-
-
-
-
 }

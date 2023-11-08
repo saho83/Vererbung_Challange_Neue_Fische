@@ -19,11 +19,8 @@ public class Fahrzeug {
     }
 
     //method
-    public void info(){
-        System.out.println(manufacturer+ " " + model+ " " + modelYear);
+    public void info() {
+        System.out.println(manufacturer + " " + model + " " + modelYear);
     }
-
-
-
 
 }
